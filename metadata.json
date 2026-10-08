@@ -1,0 +1,6 @@
+{
+  "name": "QuantEdge Sports Analytics",
+  "description": "Sistema de inteligencia estadística y análisis predictivo en tiempo real para fútbol, tenis y baloncesto con validación multi-fuente y valor esperado (EV+).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
